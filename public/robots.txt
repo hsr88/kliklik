@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://klikklik.click/sitemap.xml
+
+# Disallow admin/internal paths (jeśli masz)
+# Disallow: /admin/
+# Disallow: /api/
+
+# Crawl-delay dla botów (opcjonalne)
+# Crawl-delay: 1
